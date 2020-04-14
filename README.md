@@ -17,5 +17,5 @@
 - 分治
 - 动规
 
-[数据结构](./yo/arrange.md)   
+[数据结构](/yo/datastructure.md)   
 [算法](./yo/suanfa.md)
