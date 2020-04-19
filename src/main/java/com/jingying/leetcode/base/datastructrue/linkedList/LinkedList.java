@@ -1,6 +1,5 @@
 package com.jingying.leetcode.base.datastructrue.linkedList;
 
-import java.awt.*;
 
 /**
  * author by beijita@weilaicheng.com
